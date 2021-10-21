@@ -65,9 +65,9 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EWV-gt-2o9">
-                                <rect key="frame" x="113" y="401" width="94.5" height="32"/>
+                                <rect key="frame" x="85" y="401" width="150" height="32"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Show Text">
+                                <buttonConfiguration key="configuration" style="plain" title="Show Text &amp; Color">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="15"/>
                                 </buttonConfiguration>
                                 <connections>
